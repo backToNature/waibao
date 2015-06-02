@@ -1,0 +1,17 @@
+body {
+    background: #bca488;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+.header {
+    width: 100%;
+    position: relative;
+    /*background-image: url("img/letter/banner.jpg");*/
+}
+
+.content, .banner, .content ul, .content ul li, .content ul li img {
+    width: 100%;
+}

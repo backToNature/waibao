@@ -1,0 +1,81 @@
+
+.banner {
+    width: 100%;
+}
+
+.pic_wrapper {
+    width: 100%;
+    background: #fff;
+}
+
+.pic_list {
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+    top: -68px;
+}
+
+.pic_list ul {
+    /*width: 50%;*/
+}
+
+.pic_list ul li {
+    margin: 21px 0;
+    width: 100%;
+    zoom: 1;
+    -moz-box-shadow: -8px 10px 45px #dfdfdf; /*firefox*/
+    -webkit-box-shadow: -8px 10px 45px #dfdfdf; /*webkit*/
+    box-shadow: -8px 10px 45px #dfdfdf; /*opera或ie9*/
+    filter: progid:DXImageTransform.Microsoft.DropShadow(OffX=-2, OffY=2, Color=#dfdfdf);
+}
+
+.pic_list ul li:first-child {
+    margin-top: 0;
+}
+
+.pic {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    background: #333;
+}
+
+.copyright {
+    width: 936px;
+    margin: 0 auto;
+    color: #fff;
+    padding: 36px 12px 30px;
+    position: relative;
+}
+
+.contact {
+    background: #b81515;
+    padding: 10px 16px;
+    font-size: 24px;
+}
+
+.contact_tips {
+    position: absolute;
+    left: 205px;
+}
+
+.contact_tips span {
+    font-size: 8px;
+    color: #a7a7a7;
+}
+
+.contact_tips span:first-child {
+    font-size: 16px;
+    color: #fff;
+}
+
+.organization {
+    position: absolute;
+    right: 12px;
+    font-size: 14px;
+    top: 45px;
+}
+
+
